@@ -1,0 +1,8 @@
+References:
+
+
+[1] The World Bank, World Development Indicators (2021). Arable land (% of land area), Atlas method  [Data file]. Retrieved from https://data.worldbank.org/indicator/AG.LND.ARBL.ZS
+
+[2] The World Bank, World Development Indicators (2021). Total greenhouse gas emissions (kt of CO2 equivalent), Atlas method  [Data file]. Retrieved from https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE
+
+[3] The World Bank, World Development Indicators (2021). Forest area (sq. km), Atlas method  [Data file]. Retrieved from https://data.worldbank.org/indicator/AG.LND.FRST.K2
